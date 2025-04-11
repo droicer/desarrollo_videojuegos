@@ -650,6 +650,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  fuerzaSalto: 7
+  verificadorSuelo: {fileID: 183191751}
+  radioSuelo: 0.2
+  capaSuelo:
+    serializedVersion: 2
+    m_Bits: 4294967295
 --- !u!61 &899729413
 BoxCollider2D:
   m_ObjectHideFlags: 0
